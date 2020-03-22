@@ -1,0 +1,10 @@
+test_add_contact:
+  test_01:
+    name: "zhangsan"
+    tel: "18888888888"
+  test_02:
+    name: "lisi"
+    tel: "13333333333"
+  test_03:
+    name: "wangwu"
+    tel: "177777777777"
